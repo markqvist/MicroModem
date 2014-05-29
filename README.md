@@ -5,6 +5,8 @@ MicroModem is an educational implementation of a 1200-baud AFSK modem. This impl
 
 Please read the "Quickstart.pdf" in the Documentation folder for some pointers on building the modem!
 
+If you want to use MicroModem for APRS, check out the "ax25" branch. This branch has a demonstration of how to use MicroModem to send and receive APRS packets.
+
 ![MicroModem](https://raw.githubusercontent.com/markqvist/MicroModem/master/Design/Images/1.jpg)
 
 The repository contains schematics and Eagle PCB files for a Microduino module. There is also fritzing sketches for both an Arduino shield and a Microduino module, with notes so they are easier to understand. I have had the eagle PCB fabricated, and it is working great, so you can use that if want to make your own board.
