@@ -1,6 +1,8 @@
 MicroModem
 ==========
 
+__This branch is deprecated! Have a look at [MicroAPRS](https://github.com/markqvist/MicroAPRS) instead!__
+
 MicroModem is an educational implementation of a 1200-baud AFSK modem. This implementation is targeted at the Atmega 328p microprocessor used in many Arduino boards and spinoffs. It can be build very easily with an Arduino board based on the Atmega 328p, and around 15 common electronics components.
 
 Please read the "Quickstart.pdf" in the Documentation folder for some pointers on building the modem!
