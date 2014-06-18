@@ -5,7 +5,7 @@ MicroModem is an educational implementation of a 1200-baud AFSK modem. This impl
 
 Please read the "Quickstart.pdf" in the Documentation folder for some pointers on building the modem!
 
-If you want to use MicroModem for APRS, check out the "ax25" branch. This branch has a demonstration of how to use MicroModem to send and receive APRS packets.
+If you want to use MicroModem for APRS, check out the [MicroAPRS](https://github.com/markqvist/MicroAPRS). This fork is created specifically for APRS.
 
 ![MicroModem](https://raw.githubusercontent.com/markqvist/MicroModem/master/Design/Images/1.jpg)
 
