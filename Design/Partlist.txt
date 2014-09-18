@@ -1,0 +1,34 @@
+Partlist
+
+Exported from Modem.sch at 9/18/14 8:45 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part           Value          Device         Package   Library        Sheet
+
+C1             100nF          C2.5/2         C2.5-2    capacitor      1
+C2             4.7uF          CPOL-EUE2.5-5V E2,5-4R   capacitor-pol  1
+C3             1uF            C2.5/2         C2.5-2    capacitor      1
+Q1             2N7000         2N7000         TO92      transistor     1
+R1             1k             R-EU_0204/2V   0204V     resistor       1
+R2             2k2            R-EU_0204/2V   0204V     resistor       1
+R3             3k9            R-EU_0204/2V   0204V     resistor       1
+R4             8k2            R-EU_0204/2V   0204V     resistor       1
+R5             100k           R-EU_0204/2V   0204V     resistor       1
+R6             1k             R-EU_0204/2V   0204V     resistor       1
+R7             270            R-EU_0204/2V   0204V     resistor       1
+R8             270            R-EU_0204/2V   0204V     resistor       1
+R9             10k            R-EU_0204/2V   0204V     rcl            1
+R10            100k           R-EU_0204/2V   0204V     rcl            1
+R11            100k           R-EU_0204/2V   0204V     rcl            1
+RX                            LED_ELD260     LED_LD260 eagle-ltspice  1
+TX                            LED_ELD260     LED_LD260 eagle-ltspice  1
+
+RADIO                         PINHD-1X3      1X03      adafruit       1
+MICRODUINO_BTM                PINHD-1X9      1X09-BIG  adafruit       1
+MICRODUINO_LFT                PINHD-1X9      1X09-BIG  adafruit       1
+MICRODUINO_TOP                PINHD-1X9      1X09-BIG  adafruit       1
+PTT+                          PINHD-1X1      1X01      adafruit       1
+PTT-                          PINHD-1X1      1X01      adafruit       1
