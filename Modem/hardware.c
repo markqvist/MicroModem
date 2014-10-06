@@ -17,9 +17,9 @@ static Afsk *modem;
 // And now for the actual hardware functions        //
 //////////////////////////////////////////////////////
 
-// M1 correction = 9500
-// M2 correction = 40000
-#define FREQUENCY_CORRECTION 9500
+// If your CPU clock is a little off, you can compensate
+// with this
+#define FREQUENCY_CORRECTION 0
 
 // This function initializes the ADC and configures
 // it the way we need.
