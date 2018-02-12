@@ -1,8 +1,6 @@
 MicroModem - Deprecated Firmware
 ==========
 
-# THIS VERSION INCORPORATES THE EAGLE CHANGES TO ACCOMODATE AN ARDUINO NANO
-
 *Please note that the firmware in this repo is deprecated! For a newer, much better general purpose firmware, use [MicroModemGP](https://github.com/markqvist/MicroModemGP). For an APRS-oriented firmware use [MicroAPRS](https://github.com/markqvist/MicroAPRS)*
 
 MicroModem is an educational implementation of a 1200-baud AFSK modem. This implementation is targeted at the Atmega 328p microprocessor used in many Arduino boards and spinoffs. It can be build very easily with an Arduino board based on the Atmega 328p, and around 15 common electronics components.
